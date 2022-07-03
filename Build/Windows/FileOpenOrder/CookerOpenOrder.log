@@ -577,105 +577,199 @@
 "../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uexp" 576
 "../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 577
 "../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uexp" 578
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 579
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 580
-"../../../Engine/Content/Maps/Entry.uexp" 581
-"../../../Engine/Content/Maps/Entry.umap" 582
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/SFX.uasset" 583
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/SFX.uexp" 584
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/BGM.uasset" 585
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/BGM.uexp" 586
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/SavePoint/AudioSettings.uasset" 587
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/SavePoint/AudioSettings.uexp" 588
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/NewSoundMix.uasset" 589
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/NewSoundMix.uexp" 590
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 591
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 592
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/W_Options.uasset" 593
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/W_Options.uexp" 594
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/W_MainMenu.uasset" 595
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/W_MainMenu.uexp" 596
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Maps/MainMenu.uexp" 597
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Maps/MainMenu.umap" 598
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 599
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 600
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 601
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 602
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 603
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 604
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 605
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 606
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 607
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 608
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 609
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 610
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 611
-"../../../Engine/Content/EngineSky/SM_SkySphere.ubulk" 612
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 613
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 614
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 615
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 616
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 617
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 618
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 619
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 620
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Wind06.ubulk" 621
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Wind06.uasset" 622
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Wind06.uexp" 623
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Birds01.ubulk" 624
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Birds01.uasset" 625
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Birds01.uexp" 626
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Wind05.ubulk" 627
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Wind05.uasset" 628
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Wind05.uexp" 629
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Background_Cue.uasset" 630
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Background_Cue.uexp" 631
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uexp" 632
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 633
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.ufont" 634
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 635
-"../../../Engine/Content/EngineFonts/RobotoTiny.uexp" 636
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/M_BallBlack.uasset" 637
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/M_BallBlack.uexp" 638
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/M_Trail.uasset" 639
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/M_Trail.uexp" 640
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/PS_Trail.uasset" 641
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/PS_Trail.uexp" 642
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Fall.ubulk" 643
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Fall.uasset" 644
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Fall.uexp" 645
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/M_BallWhite.uasset" 646
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/M_BallWhite.uexp" 647
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Shot_Ball.ubulk" 648
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Shot_Ball.uasset" 649
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Shot_Ball.uexp" 650
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/SM_Ball.ubulk" 651
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/SM_Ball.uasset" 652
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/SM_Ball.uexp" 653
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/BP_Ball.uasset" 654
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/BP_Ball.uexp" 655
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/W_InterfaceLvl.uasset" 656
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/W_InterfaceLvl.uexp" 657
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Blueprints/MyGameMode.uasset" 658
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Blueprints/MyGameMode.uexp" 659
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Whistle.ubulk" 660
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Whistle.uasset" 661
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Whistle.uexp" 662
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Blueprints/MyPlayerStart.uasset" 663
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Blueprints/MyPlayerStart.uexp" 664
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Maps/Level1_BuiltData.uasset" 665
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Maps/Level1_BuiltData.uexp" 666
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Botin.uasset" 667
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Botin.uexp" 668
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Botin_Sprite_0.uasset" 669
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Botin_Sprite_0.uexp" 670
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Botin_Sprite_1.uasset" 671
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Botin_Sprite_1.uexp" 672
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Botin_Sprite_2.uasset" 673
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Botin_Sprite_2.uexp" 674
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Botin_Sprite_6.uasset" 675
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Botin_Sprite_6.uexp" 676
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Botin_Sprite_7.uasset" 677
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Botin_Sprite_7.uexp" 678
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Maps/Level1.uexp" 679
-"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Maps/Level1.umap" 680
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/Sombra_3.uasset" 579
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/Sombra_3.uexp" 580
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 581
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 582
+"../../../Engine/Content/Maps/Entry.uexp" 583
+"../../../Engine/Content/Maps/Entry.umap" 584
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/EgraphicsSettings.uasset" 585
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/EgraphicsSettings.uexp" 586
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/SavePoint/SaveGameSettings.uasset" 587
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/SavePoint/SaveGameSettings.uexp" 588
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/SFX_Effects.uasset" 589
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/SFX_Effects.uexp" 590
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/SFX_Music.uasset" 591
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/SFX_Music.uexp" 592
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/SFX_Ambient.uasset" 593
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/SFX_Ambient.uexp" 594
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/NewSoundMix.uasset" 595
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/NewSoundMix.uexp" 596
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 597
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 598
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/UI_Settings.uasset" 599
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/UI_Settings.uexp" 600
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/W_MainMenu.uasset" 601
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/W_MainMenu.uexp" 602
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Maps/MainMenu.uexp" 603
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Maps/MainMenu.umap" 604
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uexp" 605
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 606
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.ufont" 607
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 608
+"../../../Engine/Content/EngineFonts/RobotoTiny.uexp" 609
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/M_BallBlack.uasset" 610
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/M_BallBlack.uexp" 611
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/M_Trail.uasset" 612
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/M_Trail.uexp" 613
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/PS_Trail.uasset" 614
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/PS_Trail.uexp" 615
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Blueprints/MyGameMode.uasset" 616
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Blueprints/MyGameMode.uexp" 617
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Fall.ubulk" 618
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Fall.uasset" 619
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Fall.uexp" 620
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/M_BallWhite.uasset" 621
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/M_BallWhite.uexp" 622
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Shot_Ball.ubulk" 623
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Shot_Ball.uasset" 624
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Shot_Ball.uexp" 625
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/SM_Ball.ubulk" 626
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/SM_Ball.uasset" 627
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/SM_Ball.uexp" 628
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/BP_Ball.uasset" 629
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Character/BP_Ball.uexp" 630
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/Pause.uasset" 631
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/Pause.uexp" 632
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/W_InterfaceLvl.uasset" 633
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/UI/W_InterfaceLvl.uexp" 634
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 635
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 636
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 637
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 638
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 639
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 640
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 641
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 642
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 643
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 644
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 645
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 646
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 647
+"../../../Engine/Content/EngineSky/SM_SkySphere.ubulk" 648
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 649
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 650
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 651
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 652
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 653
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 654
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 655
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 656
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Wind06.ubulk" 657
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Wind06.uasset" 658
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Wind06.uexp" 659
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Birds01.ubulk" 660
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Birds01.uasset" 661
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Birds01.uexp" 662
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Wind05.ubulk" 663
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Wind05.uasset" 664
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Wind05.uexp" 665
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Background_Cue.uasset" 666
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Music/Starter_Background_Cue.uexp" 667
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/Botin.uasset" 668
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/Botin.uexp" 669
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/REDCONE_Sprite_6.uasset" 670
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/REDCONE_Sprite_6.uexp" 671
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Cloud1_Sprite_1.uasset" 672
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Cloud1_Sprite_1.uexp" 673
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Whistle.ubulk" 674
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Whistle.uasset" 675
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sound/Whistle.uexp" 676
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Blueprints/MyPlayerStart.uasset" 677
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Blueprints/MyPlayerStart.uexp" 678
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/CLOUD2_Sprite_2.uasset" 679
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/CLOUD2_Sprite_2.uexp" 680
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/CLOUD5_Sprite_0.uasset" 681
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/CLOUD5_Sprite_0.uexp" 682
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 683
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uexp" 684
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/FONDO_1.uasset" 685
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/FONDO_1.uexp" 686
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Back1_1_Sprite.uasset" 687
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Back1_1_Sprite.uexp" 688
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Botin_Sprite_7.uasset" 689
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Botin_Sprite_7.uexp" 690
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Maps/Level1_BuiltData.uasset" 691
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Maps/Level1_BuiltData.uexp" 692
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/Sombra_7.uasset" 693
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/Sombra_7.uexp" 694
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Sombra_7_Sprite.uasset" 695
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Sombra_7_Sprite.uexp" 696
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/Sombra_6.uasset" 697
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/Sombra_6.uexp" 698
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Sombra_6_Sprite.uasset" 699
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Sombra_6_Sprite.uexp" 700
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/Sombra_5.uasset" 701
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/Sombra_5.uexp" 702
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Sombra_5_Sprite.uasset" 703
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Sombra_5_Sprite.uexp" 704
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/Sombra_4.uasset" 705
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/Sombra_4.uexp" 706
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Sombra_4_Sprite.uasset" 707
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Sombra_4_Sprite.uexp" 708
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Sombra_3.uasset" 709
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Sombra_3.uexp" 710
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Sombra_3_Sprite.uasset" 711
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Sombra_3_Sprite.uexp" 712
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/Capa_21.uasset" 713
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/Capa_21.uexp" 714
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/BaseEscenario_Sprite.uasset" 715
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/BaseEscenario_Sprite.uexp" 716
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_VIGA_METALICA_ESCENARIO_copia_4.uasset" 717
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_VIGA_METALICA_ESCENARIO_copia_4.uexp" 718
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_VIGA_METALICA_ESCENARIO_copia_4_Sprite.uasset" 719
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_VIGA_METALICA_ESCENARIO_copia_4_Sprite.uexp" 720
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_TELEVISOR_1.uasset" 721
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_TELEVISOR_1.uexp" 722
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_TELEVISOR_1_Sprite.uasset" 723
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_TELEVISOR_1_Sprite.uexp" 724
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_TELEVISOR_1_copia.uasset" 725
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_TELEVISOR_1_copia.uexp" 726
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_TELEVISOR_1_copia_Sprite.uasset" 727
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_TELEVISOR_1_copia_Sprite.uexp" 728
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_SHORT_FUTBOL.uasset" 729
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_SHORT_FUTBOL.uexp" 730
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_SHORT_FUTBOL_Sprite.uasset" 731
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_SHORT_FUTBOL_Sprite.uexp" 732
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_REMERA.uasset" 733
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_REMERA.uexp" 734
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_REMERA_Sprite.uasset" 735
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_REMERA_Sprite.uexp" 736
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_MANCUERNA.uasset" 737
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_MANCUERNA.uexp" 738
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_MANCUERNA_Sprite.uasset" 739
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_MANCUERNA_Sprite.uexp" 740
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_LAMPARA_DERECHA.uasset" 741
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_LAMPARA_DERECHA.uexp" 742
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_LAMPARA_DERECHA_Sprite.uasset" 743
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_LAMPARA_DERECHA_Sprite.uexp" 744
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_LAMPARA_DERECHA_copia.uasset" 745
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_LAMPARA_DERECHA_copia.uexp" 746
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_LAMPARA_DERECHA_copia_Sprite.uasset" 747
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_LAMPARA_DERECHA_copia_Sprite.uexp" 748
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_BARRA_FUTBOL_copia.uasset" 749
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_BARRA_FUTBOL_copia.uexp" 750
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_BARRA_FUTBOL_copia_Sprite.uasset" 751
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_BARRA_FUTBOL_copia_Sprite.uexp" 752
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_ARCO_ENTRENAMIETNO.uasset" 753
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_ARCO_ENTRENAMIETNO.uexp" 754
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_ARCO_ENTRENAMIETNO_Sprite.uasset" 755
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_ARCO_ENTRENAMIETNO_Sprite.uexp" 756
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_ARCO_DE_FUTBOL.uasset" 757
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASSET_ARCO_DE_FUTBOL.uexp" 758
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_ARCO_DE_FUTBOL_Sprite.uasset" 759
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASSET_ARCO_DE_FUTBOL_Sprite.uexp" 760
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASET_PARADA.uasset" 761
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASET_PARADA.uexp" 762
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASET_PARADA_Sprite.uasset" 763
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASET_PARADA_Sprite.uexp" 764
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASET_PARADA_copia.uasset" 765
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ASET_PARADA_copia.uexp" 766
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASET_PARADA_copia_Sprite.uasset" 767
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/ASET_PARADA_copia_Sprite.uexp" 768
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ciudad.uasset" 769
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ciudad.uexp" 770
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ciudad_Sprite.uasset" 771
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Sprites/Texturas/ciudad_Sprite.uexp" 772
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Maps/Level1.uexp" 773
+"C:/Users/Agustin/Documents/Unreal Projects/FootBallOverIt/Content/Maps/Level1.umap" 774
